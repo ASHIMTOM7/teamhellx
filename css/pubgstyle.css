@@ -1,0 +1,42 @@
+* {
+    font-family: "Londrina Solid";
+    margin-bottom: 0px!important;
+   
+} 
+
+.container-fluid {
+    background-color: black;
+    margin: 0px!important;
+    padding: 0px!important;
+}
+.jumbotron {
+    margin-top: 0!important;
+    background-color: black;
+
+}
+.btn-primary {
+    background-color: gray;
+    color: black;
+    border-color: #ffffff;
+}
+.btn-primary:hover,
+.btn-primary:active,
+.btn-primary:hover,
+.btn-primary:active:hover{
+    background-color: black;
+    border-color: white;
+    
+}
+.card{
+    height: 95%!important;
+}
+.card-body{
+    background-color: black;
+}
+.card-footer {
+    background-color: black;
+}
+.row {
+    margin-bottom: 0px!important;
+}
+
