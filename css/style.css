@@ -76,7 +76,8 @@
     }
 }
 @media only screen and (max-width: 600px)
-{
+{   
+
     .jumbotron h1{
         font-size: 26px;
         line-height: 1.7;
@@ -88,4 +89,22 @@
         width: 200px;
         padding-top: 50px;
     }
+    .navbar-nav a {
+        color: gray!important;
+        margin: 0 20px;
+        margin-top: 15px;
+        font-size: 30px;
+    
+    }
+    .navbar-toggler {
+        color: gray!important;
+        border: none!important;
+        outline: none!important;
+    }
+    .navbar-toggler .fa{
+        color:gray;
+        font-size: 26px;
+    }
+    
+
 }
